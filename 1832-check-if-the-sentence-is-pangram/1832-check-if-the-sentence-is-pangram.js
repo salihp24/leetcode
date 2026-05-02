@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var checkIfPangram = function(sentence) {
-    let value=[]
+    let value=""
 
     for (let i=0; i<sentence.length;i++){
         if(!value.includes(sentence[i])){
