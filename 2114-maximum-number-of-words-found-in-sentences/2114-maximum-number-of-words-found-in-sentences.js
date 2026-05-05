@@ -11,8 +11,6 @@ var mostWordsFound = function(sentences) {
         if(count>max){
             max=count
         }
-        console.log(count)
-        console.log(words)
     }
 
     return max
