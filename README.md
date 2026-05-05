@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/salihp24/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/salihp24/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/salihp24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [0058-length-of-last-word](https://github.com/salihp24/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/salihp24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/salihp24/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
