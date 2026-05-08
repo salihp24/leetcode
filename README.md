@@ -19,6 +19,7 @@
 | [0027-remove-element](https://github.com/salihp24/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/salihp24/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/salihp24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -48,6 +49,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/salihp24/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Binary Search
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/salihp24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
