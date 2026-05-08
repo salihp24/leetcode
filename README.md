@@ -19,6 +19,7 @@
 | [0027-remove-element](https://github.com/salihp24/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/salihp24/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/salihp24/leetcode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/salihp24/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/salihp24/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/salihp24/leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/salihp24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/salihp24/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/salihp24/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
