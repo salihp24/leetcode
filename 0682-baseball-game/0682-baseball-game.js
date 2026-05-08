@@ -4,7 +4,6 @@
  */
 var calPoints = function(ops) {
     let record=[]
-    let result=0
 
     for(let i=0;i<ops.length; i++){
         if(ops[i]!=="D" && ops[i]!=="C" && ops[i]!=="+"){
@@ -22,6 +21,38 @@ var calPoints = function(ops) {
         }
     }
 
-    return result=record.reduce((acc,val)=>acc+val,0)
+    return record.reduce((acc,val)=>acc+val,0)
 
 };
+
+
+// var calPoints = function(ops) {
+//     let record=[]
+
+//     for(let i=0;i<ops.length; i++){
+//         switch(ops[i]){
+//             case "D":{
+//                 record.push(record[record.length-1]*2)
+//                 break;
+//             }
+//             case "C":{
+//                 record.pop()
+//                 break;
+//             }
+//             case "+":{
+//                 let prev=record[record.length-1]
+//                 let beforePrev=record[record.length-2]
+                
+//                 record.push(prev+beforePrev)
+                
+//                 break;
+//             }
+//             default:{
+//                 record.push(Number(ops[i]))
+//             }
+//         }
+//     }
+
+//     return record.reduce((acc,val)=>acc+val,0)
+
+// };
