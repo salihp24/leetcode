@@ -10,6 +10,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/salihp24/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/salihp24/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/salihp24/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/salihp24/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/salihp24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
@@ -23,6 +24,7 @@
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/salihp24/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/salihp24/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
