@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/salihp24/leetcode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
+| [1672-richest-customer-wealth](https://github.com/salihp24/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/salihp24/leetcode/tree/master/2942-find-words-containing-character) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/salihp24/leetcode/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/salihp24/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
