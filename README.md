@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/salihp24/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/salihp24/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/salihp24/leetcode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/salihp24/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/salihp24/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/salihp24/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/salihp24/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/salihp24/leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/salihp24/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/salihp24/leetcode/tree/master/1672-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/salihp24/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
