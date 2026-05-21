@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/salihp24/leetcode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/salihp24/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2396-strictly-palindromic-number](https://github.com/salihp24/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/salihp24/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/salihp24/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/salihp24/leetcode/tree/master/2652-sum-multiples) |
@@ -58,6 +59,7 @@
 | [0027-remove-element](https://github.com/salihp24/leetcode/tree/master/0027-remove-element) |
 | [0844-backspace-string-compare](https://github.com/salihp24/leetcode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/salihp24/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/salihp24/leetcode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/salihp24/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
