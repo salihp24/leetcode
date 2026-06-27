@@ -3,17 +3,26 @@
  * @return {number[][]}
  */
 var flipAndInvertImage = function(image) {
-    let flipped=[]
+    // let flipped=[]
 
     for(let im of image){
-        for(let i=0; i<im.length; i++){
-            if(im[i]==1){
-                im[i]=0
-            }else{
-                im[i]=1
-            }
-        }
-        flipped.push(im.reverse())        
+        // for(let i=0; i<im.length; i++){
+        //     if(im[i]==1){
+        //         im[i]=0
+        //     }else{
+        //         im[i]=1
+        //     }
+        // }
+        // flipped.push(im.reverse())   
+
+        im.reverse()    
+
+        for (let i=0; i<im.length; i++){
+            im[i] ^=1
+        } 
+
     }
-    return flipped
+    // return flipped
+    return image
+
 };
