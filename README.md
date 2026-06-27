@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/salihp24/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/salihp24/leetcode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/salihp24/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/salihp24/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/salihp24/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salihp24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/salihp24/leetcode/tree/master/0027-remove-element) |
+| [0832-flipping-an-image](https://github.com/salihp24/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/salihp24/leetcode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/salihp24/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/salihp24/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -65,6 +67,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/salihp24/leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/salihp24/leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/salihp24/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/salihp24/leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/salihp24/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Binary Search
@@ -91,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/salihp24/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/salihp24/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
 |  |
@@ -100,4 +104,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/salihp24/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/salihp24/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
